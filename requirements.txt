@@ -3,3 +3,4 @@ django-taggit==3.0.0
 environs==9.5.0
 python-dotenv==1.0.1
 markdown==3.4.1
+psycopg2==2.9.9
